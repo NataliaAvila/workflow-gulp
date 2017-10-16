@@ -35,10 +35,11 @@ nome-projeto/
     fonts/
     images/
     js/
-    index.html    
+    index.html 
+
 ```
 
-O projeto deve ser desenvolvido na pasta <b>app</b> sendo a pasta <b>dist</b> composta pelos arquivos que serão enviados para produção(publicação).
+O projeto deve ser desenvolvido na pasta <b>app</b> sendo a pasta <b>dist</b> composta pelos arquivos gerados pelo Gulp estes serão enviados para produção(publicação).
 
 ## Instalação
 Apos clonar o projeto acesse a pasta do projeto pelo terminal e digite o comando abaixo para instalar as dependencias.
